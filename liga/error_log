@@ -1,0 +1,2 @@
+[08-Aug-2015 23:27:22 Europe/Moscow] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goalfuts/public_html/liga/11.php on line 150
+[08-Aug-2015 23:27:27 Europe/Moscow] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/goalfuts/public_html/liga/11.php on line 150
